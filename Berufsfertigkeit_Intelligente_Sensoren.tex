@@ -1,0 +1,157 @@
+\documentclass[a4paper,10pt]{scrartcl}
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{blindtext}
+\usepackage{tabularx}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{tikz}
+\usetikzlibrary{arrows,shapes,positioning,shadows,trees}
+\usepackage{forest}
+\usetikzlibrary{shadows,arrows.meta}
+\usepackage{rotating}
+\usepackage{geometry}
+\usepackage{graphicx}
+\usepackage{acronym}
+\usepackage{amsfonts}
+\usepackage{hhline,booktabs}
+\usepackage{siunitx}
+\usepackage{amssymb}% http://ctan.org/pkg/amssymb
+\usepackage{pifont}% http://ctan.org/pkg/pifont
+\usepackage{textcomp}
+\usepackage{eurosym}
+\usepackage{forest}
+\usepackage{tikz-qtree}
+\usetikzlibrary{arrows.meta, shapes.geometric, calc, shadows}
+\usepackage{booktabs}
+\usepackage{dcolumn}
+\makeatletter
+\newcolumntype{d}[1]{>{\DC@{,}{,}{#1}}l<{\DC@end}}
+\makeatother
+\usetikzlibrary{positioning}
+\usepackage{mathtools, nccmath}
+\usepackage{adjustbox}
+\usepackage{pgfgantt}
+\usetikzlibrary{calc} 
+\usetikzlibrary{arrows.meta} 
+\usetikzlibrary{positioning}
+\usepackage{verbatim}
+\usetikzlibrary{arrows.meta}
+\usepackage{booktabs}
+\usepackage{xcolor}
+\usepackage{colortbl}
+\usepackage{longtable}
+\usepackage{ulem}
+\usepackage{amsthm}
+\usepackage{ulem}
+\usepackage{setspace}
+
+%Zitationsstil
+\bibliographystyle{unsrt}
+%cite{...} -> Drag and Drop von Citavi
+
+%gantt
+\newganttchartelement*{rresource}{
+    rresource/.style={},
+    inline=true,
+    rresource inline label node/.style={anchor=west,font=\bfseries\itshape\color{blue}},
+    rresource left shift=0ex,
+    rresource right shift=0ex
+}
+\newganttchartelement*{lresource}{ % The starred version mimics a milestone element with 2 options
+    lresource/.style={}, % Don't draw the node
+    inline=true,
+    lresource inline label node/.style={anchor=east,font=\bfseries\itshape\color{blue}},
+    lresource left shift=0ex,
+    lresource right shift=0ex
+}
+%gantt
+\makeatletter
+\newcommand{\ccell}[3][]{%
+  \kern-\fboxsep
+  \if\relax\detokenize{#1}\relax
+    \expandafter\@firstoftwo
+  \else
+    \expandafter\@secondoftwo
+  \fi
+  {\colorbox{#2}}%
+  {\colorbox[#1]{#2}}%
+  {#3}\kern-\fboxsep
+}
+\makeatother
+\definecolor{cellgray}{gray}{0.9}
+\definecolor{pastelred}{rgb}{1.0, 0.41, 0.38}
+\definecolor{celadon}{rgb}{0.67, 0.88, 0.69}
+\definecolor{corn}{rgb}{0.98, 0.93, 0.36}
+
+\newcolumntype{x}{>{\columncolor{celadon}}c}
+\newcolumntype{y}{>{\columncolor{corn}}c}
+\newcolumntype{z}{>{\columncolor{pastelred}}c}
+
+\DeclarePairedDelimiter{\nint}\lfloor\rceil
+\usepackage{varwidth}
+\newcommand\Umbruch[2][3cm]{\begin{varwidth}{#1}\centering#2\end{varwidth}}
+\newcommand\Zelle[2][2cm]{\begin{varwidth}{#1}\flushleft#2\end{varwidth}}
+\newcommand\Absatz[2][12cm]{\begin{varwidth}{#1}\flushleft#2\end{varwidth}}
+\newcommand\Kommentar[2][9.5cm]{\begin{varwidth}{#1}\flushleft#2\end{varwidth}}
+\newcommand\Risiko[2][2.5cm]{\begin{varwidth}{#1}\flushleft#2\end{varwidth}}
+
+\tikzset{
+  basic/.style  = {draw, text width=2cm, drop shadow, font=\sffamily, rectangle},
+  root/.style   = {basic, rounded corners=2pt, thin, align=center,
+                   fill=red!30},
+  level 2/.style = {basic, rounded corners=4pt, thin,align=center, fill=gray!30,
+                   text width=9em},
+  level 3/.style = {basic, thin, align=left, fill=green!30, text width=8em}
+}
+\textwidth158mm
+\begin{document}
+
+\title{Studienarbeit \vspace{50px} \hfill \\ Berufsfertigkeit\\ Wintersemester 18/19 \vspace{20px} \hfill \\  \vspace{50px} 
+Intelligente Sensoren - SMARTe Zukunft \hfill \\ \hfill \\
+\hfill \\ 
+\begin{center}
+\includegraphics[width=10cm]{picture/hs_albsig_logo}
+\end{center}
+\hfill \\  \vspace{50px}
+}
+
+
+\author{Martin Hafner Matrikelnummer 86217 \hfill \\
+Maik Dürr Matrikelnummer 86217 \hfill \\
+Domenico Milazzo Matrikelnummer 86217 \hfill \\
+Ömer Ozer Matrikelnummer 86217 \hfill \\}
+\date{15.02.2019}
+\maketitle
+\thispagestyle{empty}
+\clearpage
+\tableofcontents
+%\thispagestyle{empty}
+\listoffigures
+\listoftables
+\paragraph{\Large{Abkürzungsverzeichnis}}
+\begin{acronym}[Bash]
+ \acro{IS}{Intelligente Sensoren}
+\end{acronym}
+\onehalfspacing
+
+\section{Aufgabenstellung}
+\begin{abstract}
+Intelligente Sensoren werden als Schlüsseltechnologie der Industrie 4.0 bezeichnet. Zeigen Sie an Anwendungsbeispielen, die Möglichkeiten in Forschung und Industrie auf. Ebenso eruieren Sie die neusten Entwicklungen in der Sensortechnik.
+\end{abstract}
+
+
+\section{Einleitung}
+
+\setcounter{page}{1}
+
+%Informationen AV
+\newpage
+
+
+
+\clearpage
+\bibliography{LiteraturInteligenteSeneoren}
+
+\end{document}
