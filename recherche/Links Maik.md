@@ -14,3 +14,5 @@ http://ezb.uni-regensburg.de/ezeit/?2045181 // link zu vaakum und smart sensor (
 https://bsz.ibs-bw.de/aDISWeb/app;jsessionid=591ABDF68B6CBCD5579B9510A7C753B5 // Buch zur industry
 
 http://eds.b.ebscohost.com/eds/detail/detail?vid=0&sid=a192bff4-d856-4acb-b306-541ec70c381e%40sessionmgr103&bdata=Jmxhbmc9ZGUmc2l0ZT1lZHMtbGl2ZQ%3d%3d#AN=edsnas.20150010320&db=edsnas // forcast für smart sensors
+
+https://www.azbil.com/products/factory/factory-product/switch-sensor/earthquake-sensor-seismic-detector/earthquake-sensor/downloads.html // beispiel seismograph
