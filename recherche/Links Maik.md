@@ -10,3 +10,5 @@ https://de.statista.com/statistik/daten/studie/718908/umfrage/genutzte-technolog
 
 
 http://ezb.uni-regensburg.de/ezeit/?2045181 // link zu vaakum und smart sensor (forschung)
+
+https://bsz.ibs-bw.de/aDISWeb/app;jsessionid=591ABDF68B6CBCD5579B9510A7C753B5 // Buch zur industry
