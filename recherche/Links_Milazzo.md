@@ -1,7 +1,7 @@
 ## Grundlagen Intelligente Sensoren
 
-Smart Sensor Systems : Emerging Technologies and Applications
-Gerard Meijer, Michiel Pertijs, Kofi Makinwa, and Kofi Makinwa
+##### Smart Sensor Systems : Emerging Technologies and Applications
+##### Gerard Meijer, Michiel Pertijs, Kofi Makinwa, and Kofi Makinwa
 ```
 https://ebookcentral.proquest.com/lib/hsalbsig-ebooks/detail.action?docID=1666479
 ```
