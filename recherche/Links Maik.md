@@ -18,3 +18,5 @@ http://eds.b.ebscohost.com/eds/detail/detail?vid=0&sid=a192bff4-d856-4acb-b306-5
 https://www.azbil.com/products/factory/factory-product/switch-sensor/earthquake-sensor-seismic-detector/earthquake-sensor/downloads.html // beispiel seismograph
 
 http://eds.b.ebscohost.com/eds/detail/detail?vid=0&sid=82daae2b-0167-43a6-b1ea-ab414e2a5b7c%40pdc-v-sessmgr06&bdata=Jmxhbmc9ZGUmc2l0ZT1lZHMtbGl2ZQ%3d%3d#db=egs&AN=124414335 // seismograph netzwerk
+
+https://www.rolandberger.com/en/Point-of-View/The-future-of-smart-sensors.html // interview mit statistic link
