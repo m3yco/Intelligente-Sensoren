@@ -13,9 +13,11 @@ http://edition.pagesuite-professional.co.uk/html5/reader/production/default.aspx
 Research ICT:  
 http://eds.b.ebscohost.com/eds/pdfviewer/pdfviewer?vid=9&sid=3661e60e-ddfa-4619-8bec-38b7e057c24f%40pdc-v-sessmgr03  
 NASA Propulsion smart sensors:    
-csharp-station.com/Tutorial/CSharp/Lesson06  
+https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20150010127.pdf    
 Market forecast (Sekundärquelle?):  
 https://www.esticastresearch.com/market-reports/smart-sensor-market  
 http://eds.b.ebscohost.com/eds/pdfviewer/pdfviewer?vid=21&sid=d18b94c0-6e24-4b22-97ed-34b4b9839011%40sessionmgr104  
+PRedictive Maintanance:
+http://eds.a.ebscohost.com/eds/pdfviewer/pdfviewer?vid=6&sid=79beaac4-d85c-42d9-a415-5642949e3f30%40sdc-v-sessmgr01
 
  
