@@ -7,3 +7,6 @@ https://de.statista.com/statistik/daten/studie/690515/umfrage/zukunftsszenarien-
 https://de.statista.com/statistik/daten/studie/761234/umfrage/landwirtschaft-40-umfrage-zu-smart-farming-loesungen-in-deutschland/ // Gründe weswegen Farming 4.0 nicht klappt (zukufts aussichten?)
 
 https://de.statista.com/statistik/daten/studie/718908/umfrage/genutzte-technologien-in-intelligenten-fabriken-in-deutschland/ // nutzung von Sensoren & co
+
+
+http://ezb.uni-regensburg.de/ezeit/?2045181 // link zu vaakum und smart sensor (forschung)
