@@ -4,3 +4,4 @@ zu Neuronalen Netzwerken:
 https://www.mdpi.com/1424-8220/18/12/4499  
 Buch mit Beispielen:  
 https://ebookcentral.proquest.com/lib/hsalbsig-ebooks/detail.action?docID=1666479  
+ 
