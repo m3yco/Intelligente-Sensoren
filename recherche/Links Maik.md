@@ -27,3 +27,5 @@ http://eds.a.ebscohost.com/eds/pdfviewer/pdfviewer?vid=1&sid=24b87e1a-c46c-4a92-
 
 Umfrage LAndwirtschaft 4.0
 https://de.statista.com/statistik/daten/studie/761263/umfrage/landwirtschaft-40-umfrage-zur-nutzung-neuer-technologien-in-deutschland/
+
+https://www.tuletechnologies.com/tule-faq // sensor zu erkennung von wasserverschwendung
