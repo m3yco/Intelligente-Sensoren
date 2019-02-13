@@ -29,3 +29,5 @@ Umfrage LAndwirtschaft 4.0
 https://de.statista.com/statistik/daten/studie/761263/umfrage/landwirtschaft-40-umfrage-zur-nutzung-neuer-technologien-in-deutschland/
 
 https://www.tuletechnologies.com/tule-faq // sensor zu erkennung von wasserverschwendung
+
+https://www.cowlar.com/  http://www.scrdairy.com/  // kuh überwachung per smart sensor
