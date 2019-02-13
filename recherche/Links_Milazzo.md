@@ -34,7 +34,10 @@ https://www.taylorfrancis.com/books/9781466568112
 https://ieeexplore.ieee.org/abstract/document/7986972
 ```
 
-### Allgemeine Unterlagen
+### New Trends in Smart Sensors for Industrial Applications Part 1 & 2
 ```
-http://www.fvee.de/fileadmin/publikationen/Workshopbaende/ws2013/ws2013_03_02.pdf
+https://ieeexplore.ieee.org/document/8006371
+```
+```
+https://ieeexplore.ieee.org/document/8082760
 ```
