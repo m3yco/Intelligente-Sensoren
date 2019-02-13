@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.1.14)  12 FEB 2019 00:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.1.14)  13 FEB 2019 15:57
 entering extended mode
 **./Berufsfertigkeit_Intelligente_Sensoren.tex
 (Berufsfertigkeit_Intelligente_Sensoren.tex
@@ -37,18 +37,18 @@ Package: tocbasic 2018/12/30 v3.26a KOMA-Script package (handling toc-files)
 Package tocbasic Info: omitting babel extension for `toc'
 (tocbasic)             because of feature `nobabel' available
 (tocbasic)             for `toc' on input line 134.
-Package scrartcl Info: You've used standard option `10pt'.
+Package scrartcl Info: You've used standard option `12pt'.
 (scrartcl)             This is correct!
-(scrartcl)             Internally I'm using `fontsize=10pt'.
+(scrartcl)             Internally I'm using `fontsize=12pt'.
 (scrartcl)             If you'd like to set the option with \KOMAoptions,
-(scrartcl)             you'd have to use `fontsize=10pt' there
-(scrartcl)             instead of `10pt', too.
-Class scrartcl Info: File `scrsize10pt.clo' used to setup font sizes on input l
+(scrartcl)             you'd have to use `fontsize=12pt' there
+(scrartcl)             instead of `12pt', too.
+Class scrartcl Info: File `scrsize12pt.clo' used to setup font sizes on input l
 ine 2144.
 
 ("C:\Users\domen\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\scrsiz
-e10pt.clo"
-File: scrsize10pt.clo 2018/12/30 v3.26a KOMA-Script font size class option (10p
+e12pt.clo"
+File: scrsize12pt.clo 2018/12/30 v3.26a KOMA-Script font size class option (12p
 t)
 )
 ("C:\Users\domen\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\typear
@@ -67,21 +67,21 @@ Package typearea Info: You've used standard option `a4paper'.
 \ta@temp=\skip45
 \footheight=\skip46
 Package typearea Info: These are the values describing the layout:
-(typearea)             DIV  = 8
+(typearea)             DIV  = 12
 (typearea)             BCOR = 0.0pt
 (typearea)             \paperwidth      = 597.50793pt
-(typearea)              \textwidth      = 373.44246pt
-(typearea)              DIV departure   = -4%
-(typearea)              \evensidemargin = 39.76274pt
-(typearea)              \oddsidemargin  = 39.76274pt
+(typearea)              \textwidth      = 448.13095pt
+(typearea)              DIV departure   = -6%
+(typearea)              \evensidemargin = 2.4185pt
+(typearea)              \oddsidemargin  = 2.4185pt
 (typearea)             \paperheight     = 845.04694pt
-(typearea)              \textheight     = 538.0pt
-(typearea)              \topmargin      = 0.36087pt
-(typearea)              \headheight     = 15.0pt
-(typearea)              \headsep        = 18.0pt
-(typearea)              \topskip        = 10.0pt
-(typearea)              \footskip       = 42.0pt
-(typearea)              \baselineskip   = 12.0pt
+(typearea)              \textheight     = 635.5pt
+(typearea)              \topmargin      = -41.72441pt
+(typearea)              \headheight     = 18.125pt
+(typearea)              \headsep        = 21.75pt
+(typearea)              \topskip        = 12.0pt
+(typearea)              \footskip       = 50.75pt
+(typearea)              \baselineskip   = 14.5pt
 (typearea)              on input line 1714.
 )
 \c@part=\count81
@@ -1728,15 +1728,15 @@ G,.JBIG2,.JB2,.eps]
 * \textheight=591.5302pt
 * \oddsidemargin=17.3571pt
 * \evensidemargin=17.3571pt
-* \topmargin=-3.86334pt
-* \headheight=15.0pt
-* \headsep=18.0pt
-* \topskip=10.0pt
-* \footskip=42.0pt
-* \marginparwidth=74.68849pt
+* \topmargin=-10.73834pt
+* \headheight=18.125pt
+* \headsep=21.75pt
+* \topskip=12.0pt
+* \footskip=50.75pt
+* \marginparwidth=49.79233pt
 * \marginparsep=12.8401pt
 * \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -1784,11 +1784,11 @@ LaTeX Font Info:    Try loading font information for OMX+lmex on input line 109
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 109.
+(Font)              <12> on input line 109.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 109.
+(Font)              <8> on input line 109.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 109.
+(Font)              <6> on input line 109.
 LaTeX Font Info:    Try loading font information for U+msa on input line 109.
 
 ("C:\Users\domen\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
@@ -1809,7 +1809,7 @@ LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 109
 ("C:\Users\domen\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\ot1lmtt.fd"
 File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for T1+lmss on input line 127.
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 129.
 
 
 ("C:\Users\domen\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\t1lmss.fd"
@@ -1818,10 +1818,12 @@ File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 <picture/hs_albsig_logo.jpg, id=28, 72.27pt x 19.15155pt>
 File: picture/hs_albsig_logo.jpg Graphic file (type jpg)
 <use picture/hs_albsig_logo.jpg>
-Package pdftex.def Info: picture/hs_albsig_logo.jpg  used on input line 127.
+Package pdftex.def Info: picture/hs_albsig_logo.jpg  used on input line 129.
 (pdftex.def)             Requested size: 284.52756pt x 75.42038pt.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <14.4> on input line 127.
+(Font)              <17.28> on input line 129.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 129.
 
 [1
 
@@ -1843,27 +1845,27 @@ s_albsig_logo.jpg>] (Berufsfertigkeit_Intelligente_Sensoren.toc)
 
  [1
 
-]
+] [2]
 No file Berufsfertigkeit_Intelligente_Sensoren.bbl.
 (Berufsfertigkeit_Intelligente_Sensoren.aux) ) 
 Here is how much of TeX's memory you used:
- 43149 strings out of 492946
- 970237 string characters out of 3126266
- 1111395 words of memory out of 3000000
- 46373 multiletter control sequences out of 15000+200000
- 582366 words of font info for 64 fonts, out of 3000000 for 9000
+ 43161 strings out of 492946
+ 970420 string characters out of 3126266
+ 1113443 words of memory out of 3000000
+ 46384 multiletter control sequences out of 15000+200000
+ 595552 words of font info for 74 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  64i,7n,83p,9146b,509s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/domen/AppData/Local/Pro
 grams/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Users/domen/AppData/Local/Pro
-grams/MiKTeX 2.9/fonts/type1/public/lm/lmbx10.pfb><C:/Users/domen/AppData/Local
-/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Users/domen/AppData/Lo
-cal/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/Users/domen/AppData
+grams/MiKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C:/Users/domen/AppData/Local
+/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/Users/domen/AppData/Lo
+cal/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr17.pfb><C:/Users/domen/AppData
 /Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on Berufsfertigkeit_Intelligente_Sensoren.pdf (2 pages, 133181 b
+Output written on Berufsfertigkeit_Intelligente_Sensoren.pdf (3 pages, 143946 b
 ytes).
 PDF statistics:
- 54 PDF objects out of 1000 (max. 8388607)
+ 57 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  114 words of extra memory for PDF output out of 10000 (max. 10000000)
 
