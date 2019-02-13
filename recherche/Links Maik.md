@@ -20,3 +20,14 @@ https://www.azbil.com/products/factory/factory-product/switch-sensor/earthquake-
 http://eds.b.ebscohost.com/eds/detail/detail?vid=0&sid=82daae2b-0167-43a6-b1ea-ab414e2a5b7c%40pdc-v-sessmgr06&bdata=Jmxhbmc9ZGUmc2l0ZT1lZHMtbGl2ZQ%3d%3d#db=egs&AN=124414335 // seismograph netzwerk
 
 https://www.rolandberger.com/en/Point-of-View/The-future-of-smart-sensors.html // interview mit statistic link
+
+http://eds.a.ebscohost.com/eds/pdfviewer/pdfviewer?vid=0&sid=07413f47-7808-4ae3-a113-c53d59dc826f%40sdc-v-sessmgr03 // zeitungsartikel zu farming 4.0
+
+http://eds.a.ebscohost.com/eds/pdfviewer/pdfviewer?vid=1&sid=24b87e1a-c46c-4a92-8b18-9098669379ab%40sessionmgr4007 // mehr zeitungsartikel zu farming 4.0
+
+Umfrage LAndwirtschaft 4.0
+https://de.statista.com/statistik/daten/studie/761263/umfrage/landwirtschaft-40-umfrage-zur-nutzung-neuer-technologien-in-deutschland/
+
+https://www.tuletechnologies.com/tule-faq // sensor zu erkennung von wasserverschwendung
+
+https://www.cowlar.com/  http://www.scrdairy.com/  // kuh überwachung per smart sensor
