@@ -14,7 +14,9 @@ NASA Propulsion smart sensors:
 https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20150010127.pdf    
 Market forecast (Sekundärquelle?):  
 https://www.esticastresearch.com/market-reports/smart-sensor-market   
-Predictive Maintanance:
+Predictive Maintanance:  
 http://search.ebscohost.com/login.aspx?direct=true&db=egs&AN=129506570&lang=de&site=eds-live
+Umsatzstatistik:  
+https://de.statista.com/statistik/daten/studie/688174/umfrage/prognose-zum-umsatz-und-absatz-von-sensoren/  
 
  
