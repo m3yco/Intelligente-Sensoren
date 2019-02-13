@@ -18,5 +18,6 @@ Predictive Maintanance:
 http://search.ebscohost.com/login.aspx?direct=true&db=egs&AN=129506570&lang=de&site=eds-live
 Umsatzstatistik:  
 https://de.statista.com/statistik/daten/studie/688174/umfrage/prognose-zum-umsatz-und-absatz-von-sensoren/  
-
+Zeitungsartikel SPS bald ausgestorben?:
+https://www.handelsblatt.com/technik/hannovermesse/sensoren-fuer-die-industrie-4-0-frischkur-fuer-alte-maschinen/19513852-2.html?ticket=ST-993378-igpsUrQ1Z9z2qrpjgGYe-ap2
  
