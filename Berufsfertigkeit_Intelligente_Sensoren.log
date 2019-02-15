@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.1.14)  15 FEB 2019 15:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.1.14)  15 FEB 2019 17:41
 entering extended mode
 **./Berufsfertigkeit_Intelligente_Sensoren.tex
 (Berufsfertigkeit_Intelligente_Sensoren.tex
@@ -1637,26 +1637,26 @@ LaTeX Warning: Label `fig:Smart Factory - Genutzte Technologien in Deutschland
 )
 \openout1 = `Berufsfertigkeit_Intelligente_Sensoren.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 115.
-LaTeX Font Info:    ... okay on input line 115.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 115.
-LaTeX Font Info:    ... okay on input line 115.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 115.
-LaTeX Font Info:    ... okay on input line 115.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 115.
-LaTeX Font Info:    ... okay on input line 115.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 115.
-LaTeX Font Info:    ... okay on input line 115.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 115.
-LaTeX Font Info:    ... okay on input line 115.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 115.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 115.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 116.
+LaTeX Font Info:    ... okay on input line 116.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 116.
+LaTeX Font Info:    ... okay on input line 116.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 116.
+LaTeX Font Info:    ... okay on input line 116.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 116.
+LaTeX Font Info:    ... okay on input line 116.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 116.
+LaTeX Font Info:    ... okay on input line 116.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 116.
+LaTeX Font Info:    ... okay on input line 116.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 116.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 116.
 
  ("C:\Users\domen\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 115.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 115.
+LaTeX Font Info:    ... okay on input line 116.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 116.
 ("C:\Users\domen\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\t1lmr.fd"
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -1776,57 +1776,57 @@ Dictionary: translator-months-dictionary, Language: English
 breviations.cfg"
 File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
 )
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 115.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 116.
 
 
 ("C:\Users\domen\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\ot1lmr.fd"
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 115.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 116.
 
 
 ("C:\Users\domen\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\omllmm.fd"
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 115
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 116
 .
 
 ("C:\Users\domen\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\omslmsy.fd"
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 115
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 116
 .
 
 ("C:\Users\domen\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\omxlmex.fd"
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 115.
+(Font)              <12> on input line 116.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 115.
+(Font)              <8> on input line 116.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 115.
-LaTeX Font Info:    Try loading font information for U+msa on input line 115.
+(Font)              <6> on input line 116.
+LaTeX Font Info:    Try loading font information for U+msa on input line 116.
 
 ("C:\Users\domen\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 115.
+LaTeX Font Info:    Try loading font information for U+msb on input line 116.
 ("C:\Users\domen\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for OT1+lmss on input line 115
+LaTeX Font Info:    Try loading font information for OT1+lmss on input line 116
 .
 ("C:\Users\domen\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\ot1lmss.fd"
 File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 115
+LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 116
 .
 
 ("C:\Users\domen\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\ot1lmtt.fd"
 File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for T1+lmss on input line 144.
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 145.
 
 
 ("C:\Users\domen\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\t1lmss.fd"
@@ -1835,12 +1835,12 @@ File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 <picture/hs_albsig_logo.jpg, id=28, 72.27pt x 19.15155pt>
 File: picture/hs_albsig_logo.jpg Graphic file (type jpg)
 <use picture/hs_albsig_logo.jpg>
-Package pdftex.def Info: picture/hs_albsig_logo.jpg  used on input line 144.
+Package pdftex.def Info: picture/hs_albsig_logo.jpg  used on input line 145.
 (pdftex.def)             Requested size: 284.52756pt x 75.42038pt.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <17.28> on input line 144.
+(Font)              <17.28> on input line 145.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 144.
+(Font)              <10> on input line 145.
 
 [1
 
@@ -1853,361 +1853,221 @@ s_albsig_logo.jpg>] (Berufsfertigkeit_Intelligente_Sensoren.toc)
  [2
 
 ] [3]
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 195.
 
-LaTeX Warning: Citation `Huning' on page 1 undefined on input line 186.
-
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 194.
 
 ("C:\Users\domen\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\t1lmtt.fd"
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-[1]
-
-LaTeX Warning: Citation `[1] Seite 9' on page 2 undefined on input line 206.
-
-[2]
-
-LaTeX Warning: Citation `[2] Seite 9 ff' on page 3 undefined on input line 241.
-
-
+[1] [2]
 <picture/IntelligenterSensorSchema.png, id=51, 450.68375pt x 220.825pt>
 File: picture/IntelligenterSensorSchema.png Graphic file (type png)
 <use picture/IntelligenterSensorSchema.png>
 Package pdftex.def Info: picture/IntelligenterSensorSchema.png  used on input l
-ine 246.
+ine 247.
 (pdftex.def)             Requested size: 405.61162pt x 198.74065pt.
 
-LaTeX Warning: Citation `[2] Seite 14 ff' on page 3 undefined on input line 254
-.
-
-
-Overfull \hbox (14.43909pt too wide) in paragraph at lines 254--254
+Overfull \hbox (14.43909pt too wide) in paragraph at lines 256--256
 [] \T1/lmss/bx/n/12 An-for-de-run-gen ei-nes In-tel-li-gen-te Sen-so-ren für ei
 -ne An-wen-dung in ein Cyber-physisches
  []
 
 [3 <./picture/IntelligenterSensorSchema.png>]
-LaTeX Font Info:    Try loading font information for TS1+lmr on input line 255.
+LaTeX Font Info:    Try loading font information for TS1+lmr on input line 257.
 
 
 ("C:\Users\domen\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\ts1lmr.fd"
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-
-LaTeX Warning: Citation `[2] Seite 15 ff' on page 4 undefined on input line 271
-.
-
 \pgf@layerbox@foreground=\box104
 \pgf@layerboxsaved@foreground=\box105
+
 [4]
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 355.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 357.
  [5]
-
-LaTeX Warning: Citation `[4] Seite 128 ff' on page 6 undefined on input line 37
-5.
-
 <picture/WSN.png, id=70, 489.83pt x 211.28937pt>
 File: picture/WSN.png Graphic file (type png)
 <use picture/WSN.png>
-Package pdftex.def Info: picture/WSN.png  used on input line 378.
+Package pdftex.def Info: picture/WSN.png  used on input line 380.
 (pdftex.def)             Requested size: 416.35745pt x 179.5968pt.
-
-LaTeX Warning: Citation `[5] Seite 7 ff' on page 6 undefined on input line 388.
-
-
-[6 <./picture/WSN.png>]
+ [6 <./picture/WSN.png>]
 <picture/SensorikBranchen.png, id=75, 1003.75pt x 745.78625pt>
 File: picture/SensorikBranchen.png Graphic file (type png)
 <use picture/SensorikBranchen.png>
-Package pdftex.def Info: picture/SensorikBranchen.png  used on input line 391.
+Package pdftex.def Info: picture/SensorikBranchen.png  used on input line 393.
 (pdftex.def)             Requested size: 451.68333pt x 335.60071pt.
 
-Overfull \hbox (2.12979pt too wide) in paragraph at lines 391--392
+Overfull \hbox (2.12979pt too wide) in paragraph at lines 393--394
 [][] 
  []
 
 [7 <./picture/SensorikBranchen.png>]
-
-LaTeX Warning: Citation `Smart strategies for smart sensors 2017' on page 8 und
-efined on input line 403.
-
-
-LaTeX Warning: Citation `Seite 4' on page 8 undefined on input line 403.
-
 <picture/Prognose2020_1.png, id=80, 1653.17625pt x 919.93687pt>
 File: picture/Prognose2020_1.png Graphic file (type png)
 <use picture/Prognose2020_1.png>
-Package pdftex.def Info: picture/Prognose2020_1.png  used on input line 407.
+Package pdftex.def Info: picture/Prognose2020_1.png  used on input line 409.
 (pdftex.def)             Requested size: 462.8862pt x 257.58057pt.
 
-Overfull \hbox (13.33266pt too wide) in paragraph at lines 407--408
+Overfull \hbox (13.33266pt too wide) in paragraph at lines 409--410
  [][] 
  []
-
-
-LaTeX Warning: Citation `https://www.comarch.de/news/industrie-40/industrie-40-
-news/nachruestung-von-maschinen-fuer-industrie-40/' on page 8 undefined on inpu
-t line 412.
 
 [8 <./picture/Prognose2020_1.png>]
 <picture/rfid.png, id=84, 1247.41031pt x 453.19313pt>
 File: picture/rfid.png Graphic file (type png)
 <use picture/rfid.png>
-Package pdftex.def Info: picture/rfid.png  used on input line 421.
+Package pdftex.def Info: picture/rfid.png  used on input line 423.
 (pdftex.def)             Requested size: 349.2725pt x 126.8932pt.
 <picture/kopplung.png, id=85, 1160.08406pt x 389.95688pt>
 File: picture/kopplung.png Graphic file (type png)
 <use picture/kopplung.png>
-Package pdftex.def Info: picture/kopplung.png  used on input line 430.
+Package pdftex.def Info: picture/kopplung.png  used on input line 432.
 (pdftex.def)             Requested size: 324.82132pt x 109.18718pt.
  [9 <./picture/rfid.png> <./picture/kopplung.png>]
 <picture/mikrowellen.png, id=89, 1251.92719pt x 593.21625pt>
 File: picture/mikrowellen.png Graphic file (type png)
 <use picture/mikrowellen.png>
-Package pdftex.def Info: picture/mikrowellen.png  used on input line 439.
+Package pdftex.def Info: picture/mikrowellen.png  used on input line 441.
 (pdftex.def)             Requested size: 350.53722pt x 166.09941pt.
-
-
-LaTeX Warning: Citation `https://www.reutlingen.ihk.de/fileadmin/user_upload/ww
-w.reutlingen.ihk.de/RFID.pdf' on page 10 undefined on input line 447.
-
-
-LaTeX Warning: Citation `Seite 8 ff.' on page 10 undefined on input line 447.
-
-[10 <./picture/mikrowellen.png>] [11]
+ [10 <./picture/mikrowellen.png>] [11]
 <picture/prognoserfid.png, id=97, 1003.75pt x 745.78625pt>
 File: picture/prognoserfid.png Graphic file (type png)
 <use picture/prognoserfid.png>
-Package pdftex.def Info: picture/prognoserfid.png  used on input line 466.
+Package pdftex.def Info: picture/prognoserfid.png  used on input line 469.
 (pdftex.def)             Requested size: 451.68333pt x 335.60071pt.
 
-Overfull \hbox (2.12979pt too wide) in paragraph at lines 466--467
+Overfull \hbox (2.12979pt too wide) in paragraph at lines 469--470
  [][] 
- []
-
-
-LaTeX Warning: Citation `Sensoren im Kraftfahrzeug' on page 12 undefined on inp
-ut line 480.
-
-
-LaTeX Warning: Citation `Seite 15' on page 12 undefined on input line 480.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 475--481
-
  []
 
 [12 <./picture/prognoserfid.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 478--486
 
-LaTeX Warning: Citation `Technology: The Future of Agriculture Seite 21' on pag
-e 13 undefined on input line 485.
-
-
-LaTeX Warning: Citation `Agricultural Management through Wireless Sensors and I
-nternet of Things' on page 13 undefined on input line 486.
-
-
-LaTeX Warning: Citation `Seite 1' on page 13 undefined on input line 486.
-
-
-LaTeX Warning: Citation `(Research and development in agricultural robotics: A 
-perspective of digital farming' on page 13 undefined on input line 487.
-
-
-LaTeX Warning: Citation `Seite 1)' on page 13 undefined on input line 487.
-
-
-LaTeX Warning: Citation `Agricultural Management through Wireless Sensors and I
-nternet of Things' on page 13 undefined on input line 491.
-
-
-LaTeX Warning: Citation `Seite 2' on page 13 undefined on input line 491.
-
-
-LaTeX Warning: Citation `https://www.cowlar.com/howItWorks Stand 14.02.2019' on
- page 13 undefined on input line 493.
-
-
-LaTeX Warning: Citation `13:00 Uhr' on page 13 undefined on input line 493.
+ []
 
 [13]
+Underfull \hbox (badness 10000) in paragraph at lines 497--498
 
-LaTeX Warning: Citation `https://pycno.co/quick-start Stand 14.02.2019' on page
- 14 undefined on input line 500.
+ []
 
 
-LaTeX Warning: Citation `14:00 Uhr' on page 14 undefined on input line 500.
+Underfull \hbox (badness 10000) in paragraph at lines 504--505
 
-<picture/pycno.png, id=105, 746.03719pt x 939.51pt>
+ []
+
+[14]
+<picture/pycno.png, id=108, 746.03719pt x 939.51pt>
 File: picture/pycno.png Graphic file (type png)
 <use picture/pycno.png>
-Package pdftex.def Info: picture/pycno.png  used on input line 504.
+Package pdftex.def Info: picture/pycno.png  used on input line 522.
 (pdftex.def)             Requested size: 298.40958pt x 375.79733pt.
-[14]
-<picture/Landwirtschaft.png, id=109, 1003.75pt x 745.78625pt>
+ [15] [16 <./picture/pycno.png>]
+<picture/Landwirtschaft.png, id=117, 1003.75pt x 745.78625pt>
 File: picture/Landwirtschaft.png Graphic file (type png)
 <use picture/Landwirtschaft.png>
-Package pdftex.def Info: picture/Landwirtschaft.png  used on input line 513.
+Package pdftex.def Info: picture/Landwirtschaft.png  used on input line 533.
 (pdftex.def)             Requested size: 451.68333pt x 335.60071pt.
 
-Overfull \hbox (2.12979pt too wide) in paragraph at lines 513--514
+Overfull \hbox (2.12979pt too wide) in paragraph at lines 533--534
  [][] 
  []
 
 
-Underfull \hbox (badness 1292) in paragraph at lines 514--514
+Underfull \hbox (badness 1292) in paragraph at lines 534--534
 [][]\T1/lmr/m/n/12 Landwirtschaft 4.0 - Um-fra-ge zur Nut-zung neu-er Tech-no-l
 o-gi-en in
  []
 
-[15 <./picture/pycno.png>]
-
-LaTeX Warning: Citation `Agricultural Management through Wireless Sensors and I
-nternet of Things' on page 16 undefined on input line 518.
-
-
-LaTeX Warning: Citation `Seite 6' on page 16 undefined on input line 518.
-
-
-LaTeX Warning: Citation `https://www.comarch.de/news/industrie-40/industrie-40-
-news/nachruestung-von-maschinen-fuer-industrie-40/' on page 16 undefined on inp
-ut line 520.
-
-[16 <./picture/Landwirtschaft.png>]
-
-LaTeX Warning: Citation `A Sensor Network Architecture for Tsunami Detection an
-d Response' on page 17 undefined on input line 527.
-
-
-LaTeX Warning: Citation `Seite 3 ff.' on page 17 undefined on input line 527.
-
-
-LaTeX Warning: Citation `A Sensor Network Architecture for Tsunami Detection an
-d Response' on page 17 undefined on input line 529.
-
-
-LaTeX Warning: Citation `Seite 3 ff.' on page 17 undefined on input line 529.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 527--530
-
- []
-
-<picture/tsunami.png, id=119, 561.297pt x 548.0475pt>
+[17 <./picture/Landwirtschaft.png>]
+<picture/tsunami.png, id=122, 561.297pt x 548.0475pt>
 File: picture/tsunami.png Graphic file (type png)
 <use picture/tsunami.png>
-Package pdftex.def Info: picture/tsunami.png  used on input line 533.
+Package pdftex.def Info: picture/tsunami.png  used on input line 555.
 (pdftex.def)             Requested size: 336.78079pt x 328.83104pt.
-[17]
-<picture/opfer.png, id=123, 1003.75pt x 745.78625pt>
+ [18]
+<picture/opfer.png, id=126, 1003.75pt x 745.78625pt>
 File: picture/opfer.png Graphic file (type png)
 <use picture/opfer.png>
-Package pdftex.def Info: picture/opfer.png  used on input line 542.
+Package pdftex.def Info: picture/opfer.png  used on input line 564.
 (pdftex.def)             Requested size: 451.68333pt x 335.60071pt.
 
-Overfull \hbox (2.12979pt too wide) in paragraph at lines 542--543
+Overfull \hbox (2.12979pt too wide) in paragraph at lines 564--565
  [][] 
  []
 
-[18 <./picture/tsunami.png>]
-<picture/Prognose2020.png, id=128, 860.9766pt x 497.2176pt>
+[19 <./picture/tsunami.png>] [20 <./picture/opfer.png>]
+<picture/Prognose2020.png, id=135, 860.9766pt x 497.2176pt>
 File: picture/Prognose2020.png Graphic file (type png)
 <use picture/Prognose2020.png>
-Package pdftex.def Info: picture/Prognose2020.png  used on input line 553.
+Package pdftex.def Info: picture/Prognose2020.png  used on input line 576.
 (pdftex.def)             Requested size: 430.48724pt x 248.60818pt.
- [19 <./picture/opfer.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 558--559
+
+Underfull \hbox (badness 10000) in paragraph at lines 581--582
 
  []
 
-<picture/SensorikBereiche.png, id=133, 1003.75pt x 745.78625pt>
+<picture/SensorikBereiche.png, id=136, 1003.75pt x 745.78625pt>
 File: picture/SensorikBereiche.png Graphic file (type png)
 <use picture/SensorikBereiche.png>
-Package pdftex.def Info: picture/SensorikBereiche.png  used on input line 562.
+Package pdftex.def Info: picture/SensorikBereiche.png  used on input line 585.
 (pdftex.def)             Requested size: 451.68333pt x 335.60071pt.
 
-Overfull \hbox (2.12979pt too wide) in paragraph at lines 562--563
+Overfull \hbox (2.12979pt too wide) in paragraph at lines 585--586
  [][] 
  []
 
-[20 <./picture/Prognose2020.png>]
-
-LaTeX Warning: Citation `https://www.persistencemarketresearch.com/mediarelease
-/smart-sensors-market.asp' on page 21 undefined on input line 567.
-
-
-Overfull \hbox (294.9157pt too wide) in paragraph at lines 570--572
-\T1/lmr/m/n/12 MEMS Sen-sor Tech-no-lo-gy in He-al-th-care and Con-su-mer Elec-
-tro-nics Ap-p-li-ca-ti-ons https://www.persistencemarketresearch.com/mediarelea
-se/smart-
- []
-
-[21 <./picture/SensorikBereiche.png>]
-
-LaTeX Warning: Citation `Predictive maintenance of complex system with multi-le
-vel reliability structure (Seite 1)' on page 22 undefined on input line 576.
-
-
-LaTeX Warning: Citation `(The Industrial Internet of Things and low-cost sensor
-s make PdM a must-have tool to stay competitiv' on page 22 undefined on input l
-ine 581.
-
-
-LaTeX Warning: Citation `Seite 28)' on page 22 undefined on input line 581.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 583--585
+[21 <./picture/Prognose2020.png>] [22 <./picture/SensorikBereiche.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 603--605
 
  []
 
-<picture/PM.png, id=142, 861.9402pt x 510.2262pt>
+<picture/PM.png, id=146, 861.9402pt x 510.2262pt>
 File: picture/PM.png Graphic file (type png)
 <use picture/PM.png>
-Package pdftex.def Info: picture/PM.png  used on input line 588.
+Package pdftex.def Info: picture/PM.png  used on input line 608.
 (pdftex.def)             Requested size: 387.8695pt x 229.59966pt.
-[22]
-
-LaTeX Warning: Citation `(Article Components of Artificial Neural Networks Real
-ized in CMOS Technology to be Used in Intelligent Sensors in Wireless Sensor Ne
-tworks' on page 23 undefined on input line 595.
-
-
-LaTeX Warning: Citation `Seite 3 ff.)' on page 23 undefined on input line 595.
-
-[23 <./picture/PM.png>]
-
-LaTeX Warning: Citation `(Dynamic Wireless Sensor Networks New Directions for S
-mart Technologies' on page 24 undefined on input line 602.
-
-
-LaTeX Warning: Citation `Seite 3 ff.)' on page 24 undefined on input line 602.
-
-[24] [25] (Berufsfertigkeit_Intelligente_Sensoren.lof
+[23] [24 <./picture/PM.png>] [25] [26] [27]
+(Berufsfertigkeit_Intelligente_Sensoren.lof
 Overfull \hbox (3.2044pt too wide) in paragraph at lines 14--14
  [][] []\T1/lmr/m/n/12 Aufbau der Sen-so-ren der Fir-ma Py-cno (https://pycno.c
 o/quick-start Stand 
  []
 
-[26])
+[28
+
+])
 \tf@lof=\write6
 \openout6 = `Berufsfertigkeit_Intelligente_Sensoren.lof'.
 
- [27] [28]
-No file Berufsfertigkeit_Intelligente_Sensoren.bbl.
-(Berufsfertigkeit_Intelligente_Sensoren.aux)
+ [29] (Berufsfertigkeit_Intelligente_Sensoren.bbl
+Overfull \hbox (101.0337pt too wide) in paragraph at lines 4--6
+[]\T1/lmr/m/n/12 Rfid im han-del: htt-ps://www.reutlingen.ihk.de/fileadmin/user
+_upload/www.reutlingen.ihk.de/rfid.pdf. 
+ []
 
-LaTeX Warning: There were undefined references.
 
+Underfull \hbox (badness 10000) in paragraph at lines 14--17
+[]\T1/lmr/m/n/12 Comarch AG.  Nach-rüs-tung von ma-schi-nen für in-dus-trie 4.0
+:
+ []
+
+[30]
+Underfull \hbox (badness 10000) in paragraph at lines 76--81
+\T1/lmr/m/n/12 ap-p-li-ca-ti-ons: https://www.persistencemarketresearch.com/med
+iarelease/smart-
+ []
+
+) [31] (Berufsfertigkeit_Intelligente_Sensoren.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 43703 strings out of 492946
- 981664 string characters out of 3126266
- 1121353 words of memory out of 3000000
- 46897 multiletter control sequences out of 15000+200000
+ 43694 strings out of 492946
+ 980788 string characters out of 3126266
+ 1121404 words of memory out of 3000000
+ 46886 multiletter control sequences out of 15000+200000
  606320 words of font info for 79 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  64i,10n,83p,9146b,909s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2227,10 +2087,10 @@ ts/type1/public/lm/lmri12.pfb><C:/Users/domen/AppData/Local/Programs/MiKTeX 2.9
  2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/domen/AppData/Local/Programs/
 MiKTeX 2.9/fonts/type1/public/lm/lmsso12.pfb><C:/Users/domen/AppData/Local/Prog
 rams/MiKTeX 2.9/fonts/type1/public/lm/lmtt12.pfb>
-Output written on Berufsfertigkeit_Intelligente_Sensoren.pdf (31 pages, 1831987
+Output written on Berufsfertigkeit_Intelligente_Sensoren.pdf (34 pages, 1837464
  bytes).
 PDF statistics:
- 207 PDF objects out of 1000 (max. 8388607)
+ 216 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  189 words of extra memory for PDF output out of 10000 (max. 10000000)
 
