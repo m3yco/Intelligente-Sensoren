@@ -1,17 +1,29 @@
 \babel@toc {ngerman}{}
-<<<<<<< HEAD
-\contentsline {paragraph}{\nonumberline \relax \fontsize {17.28}{22}\selectfont {Abk\IeC {\"u}rzungsverzeichnis}}{1}% 
+\contentsline {paragraph}{\nonumberline \relax \fontsize {17.28}{22}\selectfont {Abk\IeC {\"u}rzungsverzeichnis}}{}% 
 \contentsline {paragraph}{\nonumberline \relax \fontsize {14.4}{18}\selectfont Abstract}{1}% 
-\contentsline {section}{\numberline {1}Einleitung}{2}% 
+\contentsline {section}{\numberline {1}Einleitung(noch nicht fertig)}{1}% 
 \contentsline {section}{\numberline {2}Grundlagen}{2}% 
-\contentsline {section}{\numberline {3}Einsatzgebiete f\IeC {\"u}r Intelligente Sensoren}{2}% 
-\contentsline {section}{\numberline {4}Zukunftsaussichten}{2}% 
-\contentsline {section}{\numberline {5}Schlusswort}{2}% 
-=======
-\contentsline {paragraph}{\nonumberline \relax \fontsize {14.4}{18}\selectfont {Abk\IeC {\"u}rzungsverzeichnis}}{1}
-\contentsline {section}{\numberline {1}Aufgabenstellung}{1}
-\contentsline {section}{\numberline {2}Grundlagen}{1}
-\contentsline {section}{\numberline {3}Einsatzgebiete f\IeC {\"u}r Intelligente Sensoren}{1}
-\contentsline {section}{\numberline {4}Zukunftsaussichten}{1}
-\contentsline {section}{\numberline {5}Schlusswort}{1}
->>>>>>> 27f486b137010713ada8ec164ee9d0fe381e6ad8
+\contentsline {subsection}{\numberline {2.1}Sensoren}{2}% 
+\contentsline {subsection}{\numberline {2.2}Intelligente Sensoren}{3}% 
+\contentsline {paragraph}{\nonumberline Anforderungen eines Intelligente Sensoren f\IeC {\"u}r eine Anwendung in ein Cyber-physisches System \cite {[2] Seite 14 ff}}{4}% 
+\contentsline {subsubsection}{\numberline {2.2.1}Smartes Modul}{4}% 
+\contentsline {subsection}{\numberline {2.3}Kommunikation}{5}% 
+\contentsline {subsubsection}{\numberline {2.3.1}Wireless Sensor Network}{6}% 
+\contentsline {section}{\numberline {3}Einsatzgebiete f\IeC {\"u}r Intelligente Sensoren}{7}% 
+\contentsline {subsection}{\numberline {3.1}Einsatz von Intelligente Sensoren in der Industrie}{8}% 
+\contentsline {subsubsection}{\numberline {3.1.1}Anwendungsbeispiel am RFID}{9}% 
+\contentsline {paragraph}{\nonumberline Spezifisches Beispiele am RFID\cite {https://www.reutlingen.ihk.de/fileadmin/user_upload/www.reutlingen.ihk.de/RFID.pdf, Seite 8 ff.}}{10}% 
+\contentsline {subsubsection}{\numberline {3.1.2}Anwendungsbeispiel Autonomes Fahren}{12}% 
+\contentsline {subsection}{\numberline {3.2}Intelligente Sensoren in der Landwirtschaft}{13}% 
+\contentsline {subsubsection}{\numberline {3.2.1}Anwendungsbeispiel in der Landwirtschaft}{13}% 
+\contentsline {subsubsection}{\numberline {3.2.2}Spezifisches Beispiel in der Landwirtschaft}{14}% 
+\contentsline {subsubsection}{\numberline {3.2.3}Fazit zu Intelligenten Sensoren in der Landwirtschaft}{15}% 
+\contentsline {subsection}{\numberline {3.3}Intelligente Sensoren in der Forschung}{17}% 
+\contentsline {subsubsection}{\numberline {3.3.1}Anwendungsbeispiel Tsunami}{17}% 
+\contentsline {section}{\numberline {4}Zukunftsaussichten}{19}% 
+\contentsline {subsection}{\numberline {4.1}Marktentwicklung}{19}% 
+\contentsline {subsection}{\numberline {4.2}Predictive Maintenance}{22}% 
+\contentsline {subsection}{\numberline {4.3}K\IeC {\"u}nstliche Intelligenz f\IeC {\"u}r intelligente Sensoren}{23}% 
+\contentsline {subsection}{\numberline {4.4}Zukunft und Herausforderungen}{23}% 
+\contentsline {section}{\numberline {5}Schlusswort}{25}% 
+\contentsline {section}{\numberline {6}Eidesstattliche erkl\IeC {\"a}rung}{28}% 
